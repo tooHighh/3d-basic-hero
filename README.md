@@ -10,9 +10,7 @@ An immersive portfolio hero section built with **React**, **Three.js**, and **GS
 
 ## Live Demo
 
-Once deployed via GitHub Pages, the site will be available at:
-
-**https://\<your-username\>.github.io/3d-basic-hero/**
+**https://toohighh.github.io/3d-basic-hero/**
 
 ## Features
 
@@ -45,7 +43,7 @@ Once deployed via GitHub Pages, the site will be available at:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/3d-basic-hero.git
+git clone https://github.com/tooHighh/3d-basic-hero.git
 cd 3d-basic-hero
 
 # Install dependencies
@@ -100,7 +98,7 @@ git init
 git add .
 git commit -m "Initial commit: 3D hero section with React, Three.js, and GSAP"
 git branch -M main
-git remote add origin https://github.com/<your-username>/3d-basic-hero.git
+git remote add origin https://github.com/tooHighh/3d-basic-hero.git
 git push -u origin main
 ```
 
